@@ -1,0 +1,7 @@
+Updating weewx
+
+Save configuration file: /etc/weewx/weewx.conf
+Save smartskin, complete folder: /etc/weewx/skins/smartskin
+
+update weewx
+move copied files back
